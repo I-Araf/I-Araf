@@ -9,5 +9,5 @@ About me
 - 💬 Ask me about ...everything except age and salary
 - 📫 How to reach me: ...ihamaraf805@gmail.com
 - 😄 Pronouns: ...noBody
-- ⚡ Fun fact: ...why there is no lnguge to decode human mind?
+- ⚡ Fun fact: ...why there is no languge to decode human mind?
 -->
