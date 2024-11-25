@@ -10,7 +10,7 @@ I'm a passionate problem solver. Currently I'm pursuing a degree on Computer Sci
 - 📫 How to reach me: ...ihamaraf805@gmail.com
 - 😄 Pronouns: ...noBody
 - ⚡ Fun fact: ...why there is no languge to decode human mind?
-- ## connect with ME 🤝
-   LinkedIn: https://www.linkedin.com/in/iham-araf-5975052a0/
-- ## connect with me
-- [LinkedIn] (https://www.linkedin.com/in/iham-araf-orko-5975052a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bokh3GonKRGSzLmKR15vOIg%3D%3D)
+- ## 📬 Get in Touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/iham-araf-orko-5975052a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bokh3GonKRGSzLmKR15vOIg%3D%3D)  
+
+
