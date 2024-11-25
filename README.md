@@ -1,5 +1,5 @@
-## Hello!👋 Colorful people.. Here's your boy Iham Araf .. a passionate problem solver. Now I'm a student of Computer Science and Engineering in United International University. Currently I'm so hungry …
-
+## Hello!👋 Colorful people..I'm Iham Araf.
+I'm a passionate problem solver. Now I'm a student of Computer Science and Engineering in United International University. Currently I'm so hungry …
 <!--
 **I-Araf/I-Araf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
