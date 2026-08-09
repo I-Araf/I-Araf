@@ -1,17 +1,36 @@
-## Hello!👋 Colorful people..I'm Iham Araf.
-I'm a passionate problem solver. Currently I'm pursuing a degree on Computer Science and Engineering in United International University. Now I'm so hungry not for food just for a tough problem!😋 Hey you🫵 please don't go without giving a delicious problem for me.🥺.I wanna remove my hunger ultimately.
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Iham%20Araf&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20@%20UIU%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hungry+for+a+tough+problem%2C+not+food+%F0%9F%98%84;Currently+building+ResiliChain+Twin+%E2%9A%99%EF%B8%8F;Exploring+NLP+%2B+Cybersecurity+%F0%9F%94%90;Fine-tuning+models+on+SST-5+%F0%9F%A4%96;Give+me+a+delicious+problem+to+solve+%F0%9F%8D%BD%EF%B8%8F" alt="Typing SVG" /> </a> </div> <br/> <img align="right" alt="Coding GIF" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+👋 About Me
+🎓 Studying Computer Science & Engineering at United International University (UIU)
+🧠 I don't chase food, I chase problems I can't solve yet
+🛠️ Currently working on ResiliChain Twin — a supply-chain digital twin (AI & backend side)
+🔐 Exploring NLP + Cybersecurity — building an LLM prompt-injection detection project
+📈 Writing a 10-month thesis on market trend & business analysis using sentiment analysis (fine-tuning SST-5) for e-commerce
+🌐 Also built UIU Alumni Connect Portal — a full PHP/MySQL alumni networking platform
+💬 Ask me about anything — except my age and salary
+⚡ Fun fact: why is there no language to decode the human mind?
+<br clear="right"/>
+🧰 Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,php,mysql,git,github,vscode,idea&theme=dark" /> </div>
+🚧 Featured / In-Progress Projects
+<div align="center">
+Project	Description
+🔗 ResiliChain Twin	Supply-chain digital twin built for UIU's Advanced OOP industry project showcase
+🎓 UIU Alumni Connect Portal	PHP/MySQL alumni platform — auth, mentorship, jobs, events, donations & admin panel
+🛡️ NLP + Cybersecurity	Detecting LLM prompt-injection attacks — data mining research project
+📊 Sentiment Analysis Thesis	Market trend & business analysis via fine-tuned SST-5 for e-commerce reviews
+</div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=I-Araf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-Araf&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Araf&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </div>
+🏆 Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=I-Araf&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/I-Araf/I-Araf/output/github-contribution-grid-snake.svg" alt="snake animation" /> </div>
 
-## About Me 🕵️‍♂️
+ℹ️ The snake needs a one-time GitHub Actions setup — see the note at the bottom of this file.
 
-- 🔭 I’m currently working on ...your problem which u can't solve
-- 🌱 I’m currently learning ...inner feelings of computer
-- 👯 I’m looking to collaborate on ...*C++ problems*
-- 💬 Ask me about ...everything except age and salary
-- 📫 How to reach me: ...ihamaraf805@gmail.com
-- 😄 Pronouns: ...noBody
-- ⚡ Fun fact: ...why there is no languge to decode human mind?
-## 📬 Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/iham-araf-orko-5975052a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bokh3GonKRGSzLmKR15vOIg%3D%3D)
-- 📫 Email: [ihamaraf805@gmail.com](ihamaraf805@gmail.com)
+📫 Get in Touch
+<div align="center"> <a href="mailto:ihamaraf805@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/iham-araf-orko-5975052a0/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=I-Araf&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
